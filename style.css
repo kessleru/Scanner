@@ -140,7 +140,6 @@ body {
     color: #24292e;
     font-size: 32px;
     font-weight: 600;
-    margin-bottom: 16px;
     line-height: 1.25;
     margin-bottom: 50px;
 }
@@ -172,8 +171,6 @@ body {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     transition: transform 0.3s ease;
 }
-
-
 
 .github-link {
     margin-top: 40px;
